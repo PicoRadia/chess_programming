@@ -12,6 +12,19 @@
           $ chess_0x88
         To both compile and run the executable in the terminal : 
           $ gcc chess_0x88.c -o chess_0x88 && chess_0x88
+          
+    - Expected output : 
+        8    ♜  ♞  ♝  ♛  ♚  ♝  ♞  ♜ 
+        7    ♟︎  ♟︎  ♟︎  ♟︎  ♟︎  ♟︎  ♟︎  ♟︎ 
+        6    .  .  .  .  .  .  .  . 
+        5    .  .  .  .  .  .  .  . 
+        4    .  .  .  .  .  .  .  . 
+        3    .  .  .  .  .  .  .  . 
+        2    ♙  ♙  ♙  ♙  ♙  ♙  ♙  ♙ 
+        1    ♖  ♘  ♗  ♕  ♔  ♗  ♘  ♖ 
+
+             a  b  c  d  e  f  g  h 
+
 
 ----------------------------------------------------------------------
 
